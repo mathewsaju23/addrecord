@@ -1,7 +1,5 @@
 # Addrecord
 
-## Run
-
 1)Created an api with route (/task/new): It takes (name, description, email) in the request body and
 creates a new record in the database
 a. Each record should have an unique “id” parameter
@@ -30,6 +28,8 @@ Sample response:
 ]
 }
 }
+
+## Run
 
 1. Clone the repository
 
