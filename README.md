@@ -45,6 +45,10 @@ cd addrecord
 
 3. Install the dependencies
 
+```shell
+bash commands.sh
+```
+
 4. Run the file
 
 ```shell
